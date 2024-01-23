@@ -1,1 +1,2 @@
 Today is 1/14/2024
+log alignment is centerd
