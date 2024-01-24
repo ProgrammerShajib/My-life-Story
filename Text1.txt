@@ -5,4 +5,4 @@ I have doing my Bsc in Cse in Premier university.
 In 2022 i admitted in Premier University in Department of Cse.
 Now i am commited to become a fullstak web developper in 2024.
 with microverse bootcamp.
-new line added in feature branch.
+new line added in main branch.
